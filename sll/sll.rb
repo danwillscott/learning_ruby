@@ -50,7 +50,7 @@ class SLL
   end
 
   def how_many # TODO return count of all nodes
-    @@node_count
+    self[@@node_count]
   end
 
   private

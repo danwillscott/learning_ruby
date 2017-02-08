@@ -10,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/sll@Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1486538507650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="sll" />
+    <SUITE FILE_PATH="coverage/sll@Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1486539458800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="sll" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -23,8 +23,8 @@
           <file leaf-file-name="sll_rspec.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/sll_rspec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="369">
-                  <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+                <state relative-caret-position="148">
+                  <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -47,8 +47,8 @@
           <file leaf-file-name="sll.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/sll.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="68" column="25" lean-forward="false" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+                <state relative-caret-position="210">
+                  <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -299,44 +299,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486532138819</updated>
-      <workItem from="1486532140195" duration="4911000" />
+      <workItem from="1486532140195" duration="5670000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2017.02.07 at 23h 19m 09s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 35m 08s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 19m 54s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 35m 15s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 20m 07s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 35m 30s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 20m 40s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 35m 44s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 20m 52s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 36m 17s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 20m 59s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 36m 28s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 21m 07s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 36m 58s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 21m 27s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 37m 11s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 21m 42s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 37m 32s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Unnamed - 2017.02.07 at 23h 21m 47s.xml">
+    <history-entry file="Unnamed - 2017.02.07 at 23h 37m 39s.xml">
       <configuration name="Unnamed" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4911000" />
+    <option name="totallyTimeSpent" value="5670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1369" height="878" extended-state="0" />
@@ -408,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sll_rspec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="148">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding />
         </state>
       </provider>
